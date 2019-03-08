@@ -1,4 +1,4 @@
-Xilinx Spartan3E FPGA (Starter Kit)
+Xilinx Spartan 3E FPGA (Starter Kit)
 "Hello World!" -> LCD
 Verilog
 
